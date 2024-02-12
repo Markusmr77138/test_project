@@ -1,13 +1,32 @@
 # test_project
 
-For å "lagre" endringer:
+## git clone
+nytt prosjekt = clone for å koble sammen git hub og den mappen som skal inneholde kodene. Trenger bare gjøres første gang. Oprette. 
+
+    git clone "kopier koden fra github" 
+
+## git status
+Få en status om filene er lagret/addet eller ikke. Blir rød eller grønn. 
+
+    git status
+## git add
+Lagrer endringene i filen som du adder
+
     git add "filnavn"
 
-Når du er ferdig med å lagre filene så kan du commite:
-    git commit -m "overskrift på endringene" "mer utfyllende detaljer" "hvem gjorde endringen"
+## git commit
+Her legger jeg de lagrede filene i en boks og forklarer hva jeg har gjort. checkpint. 
 
-    eksempel:
-    git commit -m "la til ny knapp" "la til en ny knapp slik at man kan registrere bruker" "Markus Ryyyyydal"
+    git commit -m "Tittel" -m "innhold" -m "skrevet av?"
+
+## git push
+Her blir det som er lagret sendt til git huben din.
+
+    git push
 
 
-    
+
+
+
+
+
