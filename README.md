@@ -1,8 +1,9 @@
 # test_project
 
-## git clone
-nytt prosjekt = clone for å koble sammen git hub og den mappen som skal inneholde kodene. Trenger bare gjøres første gang. Oprette. 
+## ANGRE KNAPP
+Om jeg fakker opp, og det er en feil kode jeg skriver eller gjør noe feil. TRYKK CONTROL C!
 
+## git clone
     git clone "kopier koden fra github" 
 
 ## git status
